@@ -4,10 +4,12 @@
 Master
 총 책임자(Net architacture) - Arch(main)
 
-Enginier
+Engineer
 네트워크 엔지니어(L2이상.. switch, router, server)
 -> L2, L3 프로토콜
 
 Layer1
 네트워크 세팅(L1) 
 -> 실제 네트워크 장비 설치
+
+abcdefghijklmnopqrstuvwxyz
