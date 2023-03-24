@@ -1,0 +1,7 @@
+동서울대 네트워크 설계 제안서 지원
+-프로젝트 팀구성
+
+총 책임자(Net architacture) - Arch(main, master)
+네트워크 엔지니어(L2이상.. switch, router, server) - enginier
+-> L2, L3 프로토콜
+네트워크 세팅(L1) - Layer1
